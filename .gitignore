@@ -1,3 +1,4 @@
 nothing_to_see_here.tf
 terraform.tfstate*
 .chef/
+lambda/function/lambda.zip
